@@ -1,3 +1,5 @@
+<img src="images/svg/header.svg"></img>
+
 ## Hi 👋
 I'm currently:
 - 📦 Working on building open source R packages
