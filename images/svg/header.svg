@@ -65,7 +65,7 @@ rect.headerRect {
 g.typingUnderline rect {
    animation: 
     blink 0.5s infinite, 
-    underline_move 4s steps(24, end) forwards;
+    underline_move 3s steps(24, end) forwards;
 }
 </style>
 
